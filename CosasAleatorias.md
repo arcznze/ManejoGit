@@ -1,18 +1,18 @@
-# Lista de la compra
+### Lista de la compra
 
 - Pan
-- Leche
+- **Leche**
 - Queso
 - ~~Mantequilla~~
 - Huevos
     - Baterías
     - Linternas
-    - Abrelatas
+    - *Abrelatas*
     - Manguera
 
 ## **Notas de la clase**
 
-En esta clase, continuamos con las formas de comunicar aplicaciones, esta vez usando los **Servicios de Windows**, el cual es un método importante ya que consiste en la utilización de archivos, en donde una aplicación dejará el archivo en la otra, la cual lo podrá procesar. En clase, vimos dos tecnologías que se aplicaban a los <sup>Servicios de Windows</sup>: el tiempo, o timer, en donde se recopilan todos los archivos existentes una vez acabado el temporizador que se haya ejecutado, y el evento,  en donde se recopilan todas las situaciones por las que han pasado los archivos dentro de la carpeta.
+`En esta clase, continuamos con las formas de comunicar aplicaciones`, esta vez usando los **Servicios de Windows**, el cual es un método importante ya que consiste en la utilización de archivos, en donde una aplicación dejará el archivo en la otra, la cual lo podrá procesar. En clase, vimos dos tecnologías que se aplicaban a los <sup>Servicios de Windows</sup>: el tiempo, o timer, en donde se recopilan todos los archivos existentes una vez acabado el temporizador que se haya ejecutado, y el evento,  en donde se recopilan todas las situaciones por las que han pasado los archivos dentro de la carpeta.
 
 >  Este elemento puede filtrar archivos, dependiendo de la terminación que se determine en él.
 
